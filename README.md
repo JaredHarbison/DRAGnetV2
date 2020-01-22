@@ -1,25 +1,27 @@
-# README
+<h1 align="center">Welcome to DRAGnetV2 👋</h1>
+<p>
+  <a href="#" target="_blank">
+    <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
+  </a>
+  <a href="https://twitter.com/jaredharbison" target="_blank">
+    <img alt="Twitter: jaredharbison" src="https://img.shields.io/twitter/follow/jaredharbison.svg?style=social" />
+  </a>
+</p>
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+> View and modify data from Ru Paul’s Drag Race with DRAGnet!
 
-Things you may want to cover:
+## Author
 
-* Ruby version
+👤 **Jared Harbison**
 
-* System dependencies
+* Website: http://jaredharbison.com
+* Twitter: [@jaredharbison](https://twitter.com/jaredharbison)
+* Github: [@jaredharbison](https://github.com/jaredharbison)
+* LinkedIn: [@jaredharbison](https://linkedin.com/in/jaredharbison)
 
-* Configuration
+## Show your support
 
-* Database creation
+Give a ⭐️ if this project helped you!
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-# DRAGnetV2
+***
+_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
